@@ -1,0 +1,20 @@
+[
+    {
+        "maxLength": 255,
+        "fieldLabel": "#Name",
+        "name": "name",
+        "allowBlank": false
+    },
+    {
+        "maxLength": 50,
+        "fieldLabel": "#Type",
+        "name": "type",
+        "allowBlank": false
+    },
+    {
+        "maxLength": 255,
+        "fieldLabel": "#Icon",
+        "name": "icon",
+        "allowBlank": true
+    }
+]
