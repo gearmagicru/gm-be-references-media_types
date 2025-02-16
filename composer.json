@@ -1,14 +1,7 @@
 {
     "name": "gearmagicru/gm-be-references-media_types",
     "description": "Control Panel extension (module) \"Media types\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "GM Panel",
-        "extension",
-        "references",
-        "media"
-    ],
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-extension", "extension", "references", "media"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-references-media_types",
     "type": "component",
     "license": "MIT",
